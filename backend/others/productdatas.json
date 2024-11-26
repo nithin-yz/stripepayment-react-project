@@ -1,0 +1,827 @@
+[
+    {
+      "id": 1,
+      "name": "Beige Culottes",
+      "category": "Bottoms",
+      "price": 35,
+      "description": "Wide-leg, cropped length",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Beige Trench Coat",
+      "category": "Outerwear",
+      "price": 100,
+      "description": "Classic design, water-resistant",
+      "stock": 5
+    },
+    {
+      "id": 3,
+      "name": "Black Ankle Boots",
+      "category": "Footwear",
+      "price": 80,
+      "description": "Leather upper, durable sole",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Black Blazer",
+      "category": "Outerwear",
+      "price": 110,
+      "description": "Tailored fit, formal wear",
+      "stock": 7
+    },
+    {
+      "id": 5,
+      "name": "Black Bodycon Dress",
+      "category": "Dresses",
+      "price": 70,
+      "description": "Figure-hugging, stretchy fabric",
+      "stock": 5
+    },
+    {
+      "id": 6,
+      "name": "Black Cocktail Dress",
+      "category": "Dresses",
+      "price": 75,
+      "description": "Elegant, fitted, perfect for parties",
+      "stock": 8
+    },
+    {
+      "id": 7,
+      "name": "Black Culottes",
+      "category": "Bottoms",
+      "price": 35,
+      "description": "Wide-leg, cropped length",
+      "stock": 20
+    },
+    {
+      "id": 8,
+      "name": "Black High Heels",
+      "category": "Footwear",
+      "price": 90,
+      "description": "Elegant, 3-inch heel",
+      "stock": 10
+    },
+    {
+      "id": 9,
+      "name": "Black Leather Gloves",
+      "category": "Accessories",
+      "price": 30,
+      "description": "Warm lining, sleek design",
+      "stock": 20
+    },
+    {
+      "id": 10,
+      "name": "Black Leather Jacket",
+      "category": "Outerwear",
+      "price": 120,
+      "description": "Genuine leather, zip closure, stylish fit",
+      "stock": 10
+    },
+    {
+      "id": 11,
+      "name": "Black Leggings",
+      "category": "Bottoms",
+      "price": 25,
+      "description": "High-waisted, stretchable fabric",
+      "stock": 30
+    },
+    {
+      "id": 12,
+      "name": "Black Parka",
+      "category": "Outerwear",
+      "price": 80,
+      "description": "Faux fur hood, warm lining",
+      "stock": 12
+    },
+    {
+      "id": 13,
+      "name": "Black Shorts",
+      "category": "Bottoms",
+      "price": 20,
+      "description": "Breathable, casual wear",
+      "stock": 30
+    },
+    {
+      "id": 14,
+      "name": "Black Skinny Jeans",
+      "category": "Bottoms",
+      "price": 45,
+      "description": "Stretchable fabric, slim fit",
+      "stock": 20
+    },
+    {
+      "id": 15,
+      "name": "Black Sneakers",
+      "category": "Footwear",
+      "price": 60,
+      "description": "Lightweight, lace-up closure",
+      "stock": 30
+    },
+    {
+      "id": 16,
+      "name": "Black Sunglasses",
+      "category": "Accessories",
+      "price": 25,
+      "description": "UV protection, stylish frame",
+      "stock": 35
+    },
+    {
+      "id": 17,
+      "name": "Black V-Neck T-Shirt",
+      "category": "Tops",
+      "price": 18,
+      "description": "Slim fit, short sleeve, versatile",
+      "stock": 55
+    },
+    {
+      "id": 18,
+      "name": "Blue Baseball Cap",
+      "category": "Accessories",
+      "price": 18,
+      "description": "Adjustable strap, embroidered logo",
+      "stock": 70
+    },
+    {
+      "id": 19,
+      "name": "Blue Cocktail Dress",
+      "category": "Dresses",
+      "price": 75,
+      "description": "Elegant, fitted, perfect for parties",
+      "stock": 8
+    },
+    {
+      "id": 20,
+      "name": "Blue Denim Jeans",
+      "category": "Bottoms",
+      "price": 40,
+      "description": "Regular fit, durable denim material",
+      "stock": 30
+    },
+    {
+      "id": 21,
+      "name": "Blue Parka",
+      "category": "Outerwear",
+      "price": 80,
+      "description": "Faux fur hood, warm lining",
+      "stock": 12
+    },
+    {
+      "id": 22,
+      "name": "Blue Quilted Vest",
+      "category": "Outerwear",
+      "price": 50,
+      "description": "Lightweight, sleeveless",
+      "stock": 25
+    },
+    {
+      "id": 23,
+      "name": "Blue Running Shoes",
+      "category": "Footwear",
+      "price": 75,
+      "description": "Comfortable, breathable mesh",
+      "stock": 25
+    },
+    {
+      "id": 24,
+      "name": "Blue Wrap Dress",
+      "category": "Dresses",
+      "price": 55,
+      "description": "Comfortable, flattering design",
+      "stock": 12
+    },
+    {
+      "id": 25,
+      "name": "Brown Ankle Boots",
+      "category": "Footwear",
+      "price": 80,
+      "description": "Leather upper, durable sole",
+      "stock": 20
+    },
+    {
+      "id": 26,
+      "name": "Brown Cardigan",
+      "category": "Outerwear",
+      "price": 40,
+      "description": "Knit fabric, open front",
+      "stock": 30
+    },
+    {
+      "id": 27,
+      "name": "Brown Chinos",
+      "category": "Bottoms",
+      "price": 38,
+      "description": "Classic style, versatile",
+      "stock": 15
+    },
+    {
+      "id": 28,
+      "name": "Brown Culottes",
+      "category": "Bottoms",
+      "price": 35,
+      "description": "Wide-leg, cropped length",
+      "stock": 20
+    },
+    {
+      "id": 29,
+      "name": "Brown Leather Belt",
+      "category": "Accessories",
+      "price": 15,
+      "description": "Adjustable, genuine leather",
+      "stock": 60
+    },
+    {
+      "id": 30,
+      "name": "Brown Loafers",
+      "category": "Footwear",
+      "price": 70,
+      "description": "Slip-on, polished look",
+      "stock": 15
+    },
+    {
+      "id": 31,
+      "name": "Champagne Bodycon Dress",
+      "category": "Dresses",
+      "price": 70,
+      "description": "Figure-hugging, stretchy fabric",
+      "stock": 5
+    },
+    {
+      "id": 32,
+      "name": "Champagne Cocktail Dress",
+      "category": "Dresses",
+      "price": 75,
+      "description": "Elegant, fitted, perfect for parties",
+      "stock": 8
+    },
+    {
+      "id": 33,
+      "name": "Classic White T-Shirt",
+      "category": "Tops",
+      "price": 20,
+      "description": "100% cotton, crew neck, short sleeve",
+      "stock": 50
+    },
+    {
+      "id": 34,
+      "name": "Dark Green Ankle Boots",
+      "category": "Footwear",
+      "price": 80,
+      "description": "Leather upper, durable sole",
+      "stock": 20
+    },
+    {
+      "id": 35,
+      "name": "Floral Maxi Dress",
+      "category": "Dresses",
+      "price": 60,
+      "description": "Flowy silhouette, ankle-length, vibrant print",
+      "stock": 10
+    },
+    {
+      "id": 36,
+      "name": "Gold High Heels",
+      "category": "Footwear",
+      "price": 90,
+      "description": "Elegant, 3-inch heel",
+      "stock": 10
+    },
+    {
+      "id": 37,
+      "name": "Gold Necklace",
+      "category": "Accessories",
+      "price": 45,
+      "description": "Elegant design, timeless piece",
+      "stock": 15
+    },
+    {
+      "id": 38,
+      "name": "Gray Beanie",
+      "category": "Accessories",
+      "price": 18,
+      "description": "Warm, knitted fabric",
+      "stock": 30
+    },
+    {
+      "id": 39,
+      "name": "Gray Hoodie",
+      "category": "Tops",
+      "price": 50,
+      "description": "Soft, comfortable, zip-up",
+      "stock": 25
+    },
+    {
+      "id": 40,
+      "name": "Gray Skirt",
+      "category": "Bottoms",
+      "price": 35,
+      "description": "A-line shape, comfortable fabric",
+      "stock": 20
+    },
+    {
+      "id": 41,
+      "name": "Gray Sneakers",
+      "category": "Footwear",
+      "price": 70,
+      "description": "Comfortable, breathable mesh",
+      "stock": 15
+    },
+    {
+      "id": 42,
+      "name": "Gray Wool Coat",
+      "category": "Outerwear",
+      "price": 150,
+      "description": "Warm, stylish, full-length coat",
+      "stock": 10
+    },
+    {
+      "id": 43,
+      "name": "Green Cargo Pants",
+      "category": "Bottoms",
+      "price": 40,
+      "description": "Utility style, multiple pockets",
+      "stock": 30
+    },
+    {
+      "id": 44,
+      "name": "Green T-Shirt",
+      "category": "Tops",
+      "price": 22,
+      "description": "Comfortable, casual wear",
+      "stock": 40
+    },
+    {
+      "id": 45,
+      "name": "Lime Green Sneakers",
+      "category": "Footwear",
+      "price": 80,
+      "description": "Sporty, comfortable, breathable",
+      "stock": 25
+    },
+    {
+      "id": 46,
+      "name": "Light Blue Denim Jacket",
+      "category": "Outerwear",
+      "price": 60,
+      "description": "Casual, button-up, classic style",
+      "stock": 20
+    },
+    {
+      "id": 47,
+      "name": "Light Pink Cardigan",
+      "category": "Outerwear",
+      "price": 50,
+      "description": "Soft knit fabric, open front",
+      "stock": 25
+    },
+    {
+      "id": 48,
+      "name": "Light Yellow Blouse",
+      "category": "Tops",
+      "price": 45,
+      "description": "Soft, comfortable, short sleeve",
+      "stock": 15
+    },
+    {
+      "id": 49,
+      "name": "Long Beige Coat",
+      "category": "Outerwear",
+      "price": 180,
+      "description": "Warm, stylish, full-length",
+      "stock": 8
+    },
+    {
+      "id": 50,
+      "name": "Long Black Cardigan",
+      "category": "Outerwear",
+      "price": 60,
+      "description": "Open front, comfortable knit",
+      "stock": 20
+    },
+    {
+      "id": 51,
+      "name": "Maroon Leather Gloves",
+      "category": "Accessories",
+      "price": 35,
+      "description": "Warm lining, sleek design",
+      "stock": 15
+    },
+    {
+      "id": 52,
+      "name": "Maroon Wool Scarf",
+      "category": "Accessories",
+      "price": 20,
+      "description": "Warm wool, stylish knit",
+      "stock": 35
+    },
+    {
+      "id": 53,
+      "name": "Mint Green Skirt",
+      "category": "Bottoms",
+      "price": 30,
+      "description": "A-line shape, light fabric",
+      "stock": 20
+    },
+    {
+      "id": 54,
+      "name": "Navy Blue Blazer",
+      "category": "Outerwear",
+      "price": 110,
+      "description": "Tailored fit, professional look",
+      "stock": 10
+    },
+    {
+      "id": 55,
+      "name": "Navy Blue Hoodie",
+      "category": "Tops",
+      "price": 50,
+      "description": "Soft fabric, casual style",
+      "stock": 30
+    },
+    {
+      "id": 56,
+      "name": "Navy Blue Pants",
+      "category": "Bottoms",
+      "price": 45,
+      "description": "Slim fit, stretchable",
+      "stock": 25
+    },
+    {
+      "id": 57,
+      "name": "Navy Blue Sneakers",
+      "category": "Footwear",
+      "price": 65,
+      "description": "Comfortable, everyday wear",
+      "stock": 20
+    },
+    {
+      "id": 58,
+      "name": "Olive Green Pants",
+      "category": "Bottoms",
+      "price": 50,
+      "description": "Comfortable, stretchy fabric",
+      "stock": 20
+    },
+    {
+      "id": 59,
+      "name": "Olive Green T-Shirt",
+      "category": "Tops",
+      "price": 22,
+      "description": "Casual, comfortable wear",
+      "stock": 40
+    },
+    {
+      "id": 60,
+      "name": "Orange Shorts",
+      "category": "Bottoms",
+      "price": 18,
+      "description": "Comfortable, breathable fabric",
+      "stock": 50
+    },
+    {
+      "id": 61,
+      "name": "Pink Bodycon Dress",
+      "category": "Dresses",
+      "price": 65,
+      "description": "Figure-hugging, stretchy fabric",
+      "stock": 8
+    },
+    {
+      "id": 62,
+      "name": "Pink Blouse",
+      "category": "Tops",
+      "price": 40,
+      "description": "Soft, elegant, versatile",
+      "stock": 12
+    },
+    {
+      "id": 63,
+      "name": "Pink Joggers",
+      "category": "Bottoms",
+      "price": 40,
+      "description": "Comfortable, soft fabric",
+      "stock": 15
+    },
+    {
+      "id": 64,
+      "name": "Pink Sweater",
+      "category": "Outerwear",
+      "price": 50,
+      "description": "Cozy, soft, knit",
+      "stock": 10
+    },
+    {
+      "id": 65,
+      "name": "Pink T-Shirt",
+      "category": "Tops",
+      "price": 20,
+      "description": "Basic, comfortable fit",
+      "stock": 25
+    },
+    {
+      "id": 66,
+      "name": "Purple Cardigan",
+      "category": "Outerwear",
+      "price": 45,
+      "description": "Soft, lightweight knit",
+      "stock": 20
+    },
+    {
+      "id": 67,
+      "name": "Purple Sneakers",
+      "category": "Footwear",
+      "price": 75,
+      "description": "Sporty, comfortable",
+      "stock": 20
+    },
+    {
+      "id": 68,
+      "name": "Red Ankle Boots",
+      "category": "Footwear",
+      "price": 85,
+      "description": "Stylish, comfortable",
+      "stock": 25
+    },
+    {
+      "id": 69,
+      "name": "Red Dress",
+      "category": "Dresses",
+      "price": 85,
+      "description": "Elegant, figure-flattering",
+      "stock": 10
+    },
+    {
+      "id": 70,
+      "name": "Red Leather Belt",
+      "category": "Accessories",
+      "price": 20,
+      "description": "Adjustable, genuine leather",
+      "stock": 60
+    },
+    {
+      "id": 71,
+      "name": "Red T-Shirt",
+      "category": "Tops",
+      "price": 22,
+      "description": "Comfortable, basic fit",
+      "stock": 30
+    },
+    {
+      "id": 72,
+      "name": "Tan Loafers",
+      "category": "Footwear",
+      "price": 75,
+      "description": "Polished, comfortable design",
+      "stock": 18
+    },
+    {
+      "id": 73,
+      "name": "Teal Sweater",
+      "category": "Outerwear",
+      "price": 55,
+      "description": "Soft, comfortable fit",
+      "stock": 15
+    },
+    {
+      "id": 74,
+      "name": "White Ankle Boots",
+      "category": "Footwear",
+      "price": 95,
+      "description": "Stylish, durable design",
+      "stock": 25
+    },
+    {
+      "id": 75,
+      "name": "White Blouse",
+      "category": "Tops",
+      "price": 40,
+      "description": "Soft, comfortable, versatile",
+      "stock": 20
+    },
+    {
+      "id": 76,
+      "name": "White Cardigan",
+      "category": "Outerwear",
+      "price": 45,
+      "description": "Lightweight, cozy knit",
+      "stock": 15
+    },
+    {
+      "id": 77,
+      "name": "White Dress",
+      "category": "Dresses",
+      "price": 75,
+      "description": "Elegant, soft fabric",
+      "stock": 10
+    },
+    {
+      "id": 78,
+      "name": "White Pants",
+      "category": "Bottoms",
+      "price": 50,
+      "description": "Slim fit, comfortable stretch",
+      "stock": 15
+    },
+    {
+      "id": 79,
+      "name": "White T-Shirt",
+      "category": "Tops",
+      "price": 20,
+      "description": "Classic fit, soft cotton",
+      "stock": 50
+    },
+    {
+      "id": 80,
+      "name": "White Wool Coat",
+      "category": "Outerwear",
+      "price": 150,
+      "description": "Warm, cozy design",
+      "stock": 5
+    },
+    {
+      "id": 81,
+      "name": "Yellow Scarf",
+      "category": "Accessories",
+      "price": 25,
+      "description": "Soft fabric, bright design",
+      "stock": 20
+    },
+    {
+      "id": 82,
+      "name": "Yellow T-Shirt",
+      "category": "Tops",
+      "price": 22,
+      "description": "Bright, comfortable",
+      "stock": 30
+    },
+    {
+      "id": 83,
+      "name": "Zebra Print Skirt",
+      "category": "Bottoms",
+      "price": 45,
+      "description": "Bold print, fitted design",
+      "stock": 10
+    },
+    {
+      "id": 84,
+      "name": "Zebra Print Top",
+      "category": "Tops",
+      "price": 40,
+      "description": "Bold print, comfortable fit",
+      "stock": 10
+    },
+    {
+      "id": 85,
+      "name": "Zippered Black Jacket",
+      "category": "Outerwear",
+      "price": 90,
+      "description": "Stylish zip-up jacket",
+      "stock": 8
+    },
+    {
+      "id": 86,
+      "name": "Zippered White Hoodie",
+      "category": "Tops",
+      "price": 55,
+      "description": "Cozy, zip-up hoodie",
+      "stock": 12
+    },
+    {
+      "id": 87,
+      "name": "Zippered Red Pants",
+      "category": "Bottoms",
+      "price": 50,
+      "description": "Casual style, comfortable fit",
+      "stock": 18
+    },
+    {
+      "id": 88,
+      "name": "Zippered Gray Sweater",
+      "category": "Outerwear",
+      "price": 60,
+      "description": "Soft fabric, stylish zip-up",
+      "stock": 10
+    },
+    {
+      "id": 89,
+      "name": "Zippered Beige Jacket",
+      "category": "Outerwear",
+      "price": 80,
+      "description": "Comfortable, zip-up design",
+      "stock": 12
+    },
+    {
+      "id": 90,
+      "name": "Zippered Navy Blue Jacket",
+      "category": "Outerwear",
+      "price": 85,
+      "description": "Stylish, zippered design",
+      "stock": 10
+    },
+    {
+      "id": 91,
+      "name": "Zippered Blue Skirt",
+      "category": "Bottoms",
+      "price": 35,
+      "description": "Comfortable fit, versatile",
+      "stock": 20
+    },
+    {
+      "id": 92,
+      "name": "Zippered Red Jacket",
+      "category": "Outerwear",
+      "price": 90,
+      "description": "Bold red color, zip-up",
+      "stock": 15
+    },
+    {
+      "id": 93,
+      "name": "Zippered Brown Shoes",
+      "category": "Footwear",
+      "price": 85,
+      "description": "Stylish, zippered closure",
+      "stock": 12
+    },
+    {
+      "id": 94,
+      "name": "Zippered Gray Shoes",
+      "category": "Footwear",
+      "price": 70,
+      "description": "Comfortable, zippered closure",
+      "stock": 15
+    },
+    {
+      "id": 95,
+      "name": "Zippered White Pants",
+      "category": "Bottoms",
+      "price": 60,
+      "description": "Comfortable, zipper design",
+      "stock": 10
+    },
+    {
+      "id": 96,
+      "name": "Zippered Yellow Skirt",
+      "category": "Bottoms",
+      "price": 45,
+      "description": "Stylish, zippered details",
+      "stock": 10
+    },
+    {
+      "id": 97,
+      "name": "Zippered Green Skirt",
+      "category": "Bottoms",
+      "price": 40,
+      "description": "Comfortable, zippered closure",
+      "stock": 20
+    },
+    {
+      "id": 98,
+      "name": "Zippered Purple Hoodie",
+      "category": "Tops",
+      "price": 50,
+      "description": "Soft fabric, zip-up style",
+      "stock": 15
+    },
+    {
+      "id": 99,
+      "name": "Zippered Pink Sweatshirt",
+      "category": "Tops",
+      "price": 50,
+      "description": "Comfortable fit, zip-up design",
+      "stock": 15
+    },
+    {
+      "id": 100,
+      "name": "Zippered Black Pants",
+      "category": "Bottoms",
+      "price": 60,
+      "description": "Comfortable fit, zippered closure",
+      "stock": 15
+    },
+    {
+      "id": 101,
+      "name": "Zippered Silver Jacket",
+      "category": "Outerwear",
+      "price": 95,
+      "description": "Stylish, zippered design",
+      "stock": 8
+    },
+    {
+      "id": 102,
+      "name": "Zippered Purple Jacket",
+      "category": "Outerwear",
+      "price": 85,
+      "description": "Comfortable, zip-up",
+      "stock": 10
+    },
+    {
+      "id": 103,
+      "name": "Zippered Pink Dress",
+      "category": "Dresses",
+      "price": 85,
+      "description": "Elegant, zippered design",
+      "stock": 12
+    }
+  ]
+  
