@@ -8,6 +8,8 @@ const uri = 'mongodb+srv://tomshift22:hmIIGiOuw7v8zKNe@bestbuy.zxclmeg.mongodb.n
 
 
 const productsPath = path.join(__dirname, 'productdatas.json');
+
+//here i welcome all
 console.log(productsPath)
 
 // Read and parse the products data from the JSON file
