@@ -61,7 +61,7 @@ app.post('/api/checkout', async (req, res) => {
       payment_method_types:["card"],
       line_items:lineitems,
       mode:"payment",
-      success_url: "http://localhost:5173/", // Convert to cents (smallest unit)
+      success_url: "http://localhost:5173/recent-orders", // Convert to cents (smallest unit)
       cancel_url: 'http://localhost:5173/',
       
     });
